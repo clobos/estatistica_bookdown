@@ -1,0 +1,4 @@
+introdução-à-estatística
+estatística-descritiva
+teoria-de-probabilidades
+inferência-estatística
